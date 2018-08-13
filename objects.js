@@ -1,5 +1,5 @@
 var playlist = { artistNames: "songTitles"}
 
-function updatePlaylist(playlist, aristName, songTitle) {
+function updatePlaylist({}, aristName, songTitle) {
   beetles: "Hey Jude"
 }
